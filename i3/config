@@ -187,7 +187,16 @@ bindsym $mod+p mode "resize"
 exec --no-startup-id /home/anderson/.config/polybar/launch_polybar.sh
 
 # borda das janelas
-for_window [class="^.*"] border pixel 2
+for_window [class="^.*"] border pixel 10
+
+# class                 border    backgr.   text      indicator child_border
+client.focused          #00000000 #00000000 #00000000 #00000000 #00000000
+client.focused_inactive #00000000 #00000000 #00000000 #00000000 #00000000
+client.unfocused        #00000000 #00000000 #00000000 #00000000 #00000000
+client.urgent           #00000000 #00000000 #00000000 #00000000 #00000000
+client.placeholder      #00000000 #00000000 #00000000 #00000000 #00000000
+
+client.background       #00000000
 
 # keybinding to lock screen
 bindsym $mod+l exec "python3 /home/anderson/Wallpaper/script/script.py"
