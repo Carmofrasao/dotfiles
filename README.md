@@ -58,6 +58,9 @@ E um emulador de terminal simples, acelerado por GPU, escrito em Rust.
 (Terminal legal)
 
 ## Feh
+
+![feh.png](./imagem/feh.png)
+
 `sudo pacman -S feh`
 
 https://wiki.archlinux.org/title/Feh#As_a_desktop_wallpaper_manager
