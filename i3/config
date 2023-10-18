@@ -184,7 +184,7 @@ mode "resize" {
 bindsym $mod+p mode "resize"
 
 # Start display a workspace bar
-exec --no-startup-id polybar exemple
+exec --no-startup-id polybar example
 
 # borda das janelas
 for_window [class="^.*"] border pixel 2
