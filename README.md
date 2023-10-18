@@ -11,7 +11,7 @@ https://wiki.archlinux.org/title/Installation_guide
 https://gist.github.com/iagobueno/7ee556f787f5ee2a60e2faed0d95e4f4
 
 Claro que durante o processo voce ira encontrar varios erros, mas se esta 
-aqui e realmente vai usar essas informaçoes, tenho certeza que voce concegue
+aqui e realmente vai usar essas informaçoes, tenho certeza que voce consegue
 resolver esses erros!
 
 ## Algumas inspiraçoes:
