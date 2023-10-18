@@ -77,4 +77,6 @@ https://wiki.archlinux.org/title/Vim
 
 Editor de texto legal
 
+---
+
 * Para o bloqueio, usei o i3lock mesmo.
