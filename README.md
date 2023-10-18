@@ -23,6 +23,9 @@ https://github.com/ART3MISTICAL/dotfiles/tree/main
 https://dev.to/lissatransborda/criando-um-ambiente-de-desenvolvimento-minimalista-32o9
 
 ## Rofi
+
+![rofi.jpg](./rofi.jpg)
+
 `sudo pacman -S rofi`
 
 https://wiki.archlinux.org/title/Rofi
