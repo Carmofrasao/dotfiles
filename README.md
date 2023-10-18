@@ -1,8 +1,20 @@
 # Arch Linux Files
 
-Nesse repositorio estao meus arquivos de configuraçao do meu arch!
+Nesse repositorio estao os arquivos de configuraçao do meu arch!
 
-Algumas inspiraçoes:
+## Instalaçao
+
+Para a instalaçao, usei esses dois manuais:
+
+https://wiki.archlinux.org/title/Installation_guide
+
+https://gist.github.com/iagobueno/7ee556f787f5ee2a60e2faed0d95e4f4
+
+Claro que durante o processo voce ira encontrar varios erros, mas se esta 
+aqui e realmente vai usar essas informaçoes, tenho certeza que voçe concegue
+resolver esses erros!
+
+## Algumas inspiraçoes:
 
 https://github.com/AndrewLockVI/I3-Dark-Ocean/tree/main
 
@@ -64,3 +76,5 @@ https://archlinux.org/packages/extra/x86_64/pavucontrol/
 https://wiki.archlinux.org/title/Vim
 
 Editor de texto legal
+
+* Para o bloqueio, usei o i3lock mesmo.
