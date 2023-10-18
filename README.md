@@ -24,8 +24,6 @@ https://dev.to/lissatransborda/criando-um-ambiente-de-desenvolvimento-minimalist
 
 ## Rofi
 
-![rofi.jpg](./imagem/rofi.jpg)
-
 `sudo pacman -S rofi`
 
 https://wiki.archlinux.org/title/Rofi
