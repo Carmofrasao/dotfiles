@@ -66,6 +66,9 @@ E um visualizador de imagens leve destinado principalmente a utilizadores
 de interfaces de linha de comandos. (Gerenciador de plano de fundo legal)
 
 ## PulseAudio
+
+![pulseaudio.png](./imagem/pulseaudio.png)
+
 `sudo pacman -S pulseaudio`
 
 https://wiki.archlinux.org/title/PulseAudio
