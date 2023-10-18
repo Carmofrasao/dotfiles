@@ -184,7 +184,7 @@ mode "resize" {
 bindsym $mod+p mode "resize"
 
 # Start display a workspace bar
-exec --no-startup-id polybar example
+exec --no-startup-id /home/anderson/.config/polybar/launch_polybar.sh
 
 # borda das janelas
 for_window [class="^.*"] border pixel 2
