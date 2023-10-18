@@ -33,6 +33,9 @@ https://wiki.archlinux.org/title/Rofi
 E um alternador de janelas, diálogo de execução, lançador ssh. (Menu legal)
 
 ## Polybar
+
+![polybar.png](./imagem/polybar.png)
+
 `yay -S polybar`
 
 https://wiki.archlinux.org/title/Polybar
@@ -44,6 +47,9 @@ apresentação de espaços de trabalho, a data ou o volume do sistema.
 (Barra de informaçoes de sistema legal)
 
 ## Alacritty
+
+![alacritty.png](./imagem/alacritty.png)
+
 `pacman -S alacritty`
 
 https://wiki.archlinux.org/title/Alacritty
@@ -74,6 +80,9 @@ ALSA ou OSS. (Gerenciador de som legal)
 https://archlinux.org/packages/extra/x86_64/pavucontrol/
 
 ## Vim
+
+![vim.png](./imagem/vim.png)
+
 `sudo pacman -S vim`
 
 https://wiki.archlinux.org/title/Vim
