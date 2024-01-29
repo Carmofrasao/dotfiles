@@ -7,4 +7,7 @@ configuration {
   show-icons: true;
 }
 
-@theme "catppuccin-mocha"
+//@theme "catppuccin-mocha"
+//@theme "/usr/share/rofi/themes/sidebar-v2.rasi"
+//@theme "/usr/share/rofi/themes/purple.rasi"
+@theme "/usr/share/rofi/themes/arthur.rasi"

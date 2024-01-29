@@ -28,5 +28,7 @@ call plug#end()
 
 set termguicolors
 
+set cursorcolumn	
+set cursorline
 
 colorscheme dark_ocean

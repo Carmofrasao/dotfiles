@@ -96,7 +96,7 @@ bindsym $mod+v split v
 bindsym $mod+f fullscreen toggle
 
 # change container layout (stacked, tabbed, toggle split)
-# bindsym $mod+s layout stacking
+bindsym $mod+s layout stacking
 bindsym $mod+w layout tabbed
 bindsym $mod+e layout toggle split
 
@@ -205,11 +205,11 @@ bindsym $mod+l exec "python3 /home/anderson/Wallpaper/script/script.py"
 # exec "xautolock -detectsleep -time 1 -locker 'python3 /home/anderson/Wallpaper/script/script.py'"
 
 # atalho pra desligar e reiniciar o pc
-bindsym $mod+s exec "shutdown now"
+bindsym $mod+d exec "shutdown now"
 bindsym $mod+r exec "reboot"
 
 # facilitando abertura de apps importantes
-bindsym $mod+a exec "discord & librewolf & telegram-desktop &"
+bindsym $mod+a exec "discord & telegram-desktop & librewolf & whatsapp-for-linux &"
 
 # config do print usando flameshot (mesmo estilo do cinnamon)
 bindsym Shift+Print exec "flameshot gui"
