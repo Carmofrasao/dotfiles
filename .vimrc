@@ -65,3 +65,5 @@ set cursorline
 
 highlight LineNr ctermfg=DarkGrey ctermbg=NONE guifg=DarkGrey guibg=NONE
 highlight CursorLineNr ctermfg=White ctermbg=NONE guifg=White guibg=NONE
+
+set shortmess-=S
